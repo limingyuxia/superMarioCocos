@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flowerNormal",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7bc27b9c-4219-4e91-b40d-3a8922ef5f3f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

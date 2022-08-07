@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tortoiseMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a851d7e4-783a-4b88-b2a8-78378bfac784"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "af34e41c-3341-4240-9041-fe912929781f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

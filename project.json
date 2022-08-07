@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "mario",
+  "id": "bd869f38-bf20-4d98-a5b2-f9d22e4fc7d8",
+  "version": "2.4.6",
+  "isNew": false
+}

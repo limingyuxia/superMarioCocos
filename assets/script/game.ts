@@ -10,7 +10,7 @@ export default class Game extends cc.Component {
     protected Debug: boolean = false;
 
     @property({
-        displayName: "🐢乌龟",
+        displayName: "乌龟",
         type: cc.Prefab,
     })
     public tortoisePrefab: cc.Prefab = null;
@@ -22,13 +22,13 @@ export default class Game extends cc.Component {
     public mushroomPrefab: cc.Prefab = null;
 
     @property({
-        displayName: "🌺花朵",
+        displayName: "花朵",
         type: cc.Prefab,
     })
     public flowerPrefab: cc.Prefab = null;
 
     @property({
-        displayName: "🍄变大蘑菇",
+        displayName: "变大蘑菇",
         type: cc.Prefab,
     })
     public mushRoomRewardPrefab: cc.Prefab = null;
@@ -40,7 +40,7 @@ export default class Game extends cc.Component {
     public mushRoomAddlifePrefab: cc.Prefab = null;
 
     @property({
-        displayName: "🐱‍🚀玩家",
+        displayName: "玩家",
         type: cc.Prefab,
     })
     public heroPrefab: cc.Prefab = null;

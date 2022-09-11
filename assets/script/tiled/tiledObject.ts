@@ -85,9 +85,7 @@ export default class tiledObject extends cc.Component {
         const title = this._getTileByPixel(point);
         const enemyPoint = this._getTilePixel(title);
 
-        console.log(name, enemyPoint);
         newNode.setPosition(enemyPoint);
-        
         if (name === "enemy") {
             this._enemyNodes.push(newNode);
         }
